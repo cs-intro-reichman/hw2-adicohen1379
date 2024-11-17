@@ -30,7 +30,7 @@ public class Cheers {
                         else if(word.charAt(i)==('X'))
                                  System.out.println("Give me an "+word.charAt(i)+": "+word.charAt(i)+"!");
                         else
-                                 System.out.println("Give me a "+word.charAt(i)+": "+word.charAt(i)+"!"); 
+                                 System.out.println("Give me a  "+word.charAt(i)+": "+word.charAt(i)+"!"); 
 
                 }
                 System.out.println("What does that spell?");
