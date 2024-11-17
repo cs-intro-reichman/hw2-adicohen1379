@@ -68,9 +68,9 @@ public class Collatz {
 					}
 				}	
 				if(counter2==n)
-					{
-						System.out.println("Every one of the first "+n+" hailstone sequences reached 1.");
-					}
+				{
+					System.out.println("Every one of the first "+n+" hailstone sequences reached 1.");
+				}
 			}
 	}
 }
